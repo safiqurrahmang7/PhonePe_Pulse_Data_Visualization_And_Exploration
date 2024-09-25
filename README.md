@@ -67,8 +67,7 @@ This project involves extracting, transforming, and visualizing data from the Ph
 
 ## Dashboard Demo
 
-![Dashboard Preview](<img width="960" alt="image" src="https://github.com/user-attachments/assets/a08df154-8926-4382-a6cb-6a76c097e464">
-)
+![Dashboard Preview]("C:\Users\DELL\Downloads\Dashboard.jpg")
 
 ## Learning Outcomes
 
