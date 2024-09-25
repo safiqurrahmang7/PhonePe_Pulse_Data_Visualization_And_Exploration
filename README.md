@@ -67,7 +67,7 @@ This project involves extracting, transforming, and visualizing data from the Ph
 
 ## Dashboard Demo
 
-![Dashboard Preview]("C:\Users\DELL\Downloads\Dashboard.jpg")
+![Dashboard Preview]("https://github.com/safiqurrahmang7/PhonePe_Pulse/blob/main/Dashboard.jpg?raw=true")
 
 ## Learning Outcomes
 
