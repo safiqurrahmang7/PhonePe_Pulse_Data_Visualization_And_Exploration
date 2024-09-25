@@ -1,0 +1,8 @@
+streamlit==1.25.0  # For creating the interactive dashboard
+pandas==2.0.3      # For data manipulation and preprocessing
+mysql-connector-python==8.1.0  # For connecting to MySQL database
+plotly==5.15.0     # For data visualization and geo-mapping
+numpy==1.25.2      # For numerical operations (used in data processing)
+SQLAlchemy==2.0.21 # Optional for advanced database handling
+requests==2.31.0   # For any HTTP requests you might need (like fetching data from GitHub)
+gitpython==3.1.31  # For cloning the GitHub repository
