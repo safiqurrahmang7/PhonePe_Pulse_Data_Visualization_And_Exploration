@@ -67,7 +67,7 @@ This project involves extracting, transforming, and visualizing data from the Ph
 
 ## Dashboard Demo
 
-![Dashboard Preview]("https://github.com/safiqurrahmang7/PhonePe_Pulse/blob/main/Dashboard.jpg?raw=true")
+![Dashboard Preview](https://github.com/safiqurrahmang7/PhonePe_Pulse/blob/main/Dashboard.jpg?raw=true)
 
 ## Learning Outcomes
 
