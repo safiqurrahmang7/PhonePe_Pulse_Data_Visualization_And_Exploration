@@ -84,6 +84,7 @@ This project involves extracting, transforming, and visualizing data from the Ph
 .
 ├── data/
 │   └── extracted_data.csv
-├── app.py
+├── pulse_base.py
+├── pulse_main.py
 ├── README.md
 └── requirements.txt
