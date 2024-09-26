@@ -62,7 +62,7 @@ This project involves extracting, transforming, and visualizing data from the Ph
 
 4. **Run the dashboard**:
     ```bash
-    streamlit run app.py
+    streamlit run pulse_main.py
     ```
 
 ## Dashboard Demo
