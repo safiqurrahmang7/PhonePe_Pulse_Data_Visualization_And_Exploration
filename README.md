@@ -1,4 +1,4 @@
-# PhonePe Pulse Data Visualization
+# PhonePe Pulse Data Visualization and Exploration
 
 ## Project Overview
 This project involves extracting, transforming, and visualizing data from the PhonePe Pulse GitHub repository. It provides insights through an interactive geo-visualization dashboard, allowing users to explore data in a user-friendly manner.
