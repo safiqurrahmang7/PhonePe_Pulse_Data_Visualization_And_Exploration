@@ -624,7 +624,7 @@ if selected == "Insights":
 # ABOUT TAB
 if selected == "About":
     # Load the image
-    image = Image.open("D:/phonepepulse/PhonePe_Pulse/Attachments/spotlight_1.webp")
+    image = Image.open("D:\phonepepulse\phonepe_pulse\pulse_img.jpg")
 
     # Center the image using Streamlit's column layout
     col1, col2, col3 = st.columns([1, 2, 1])  # Create three columns
